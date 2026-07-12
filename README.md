@@ -62,14 +62,3 @@ Performance tracking and analytics
 
 Leaderboard and gamified elements
 
-## 👥 Contributors
-
-Thanks to the following people for their valuable contributions:
-
- Stuti Shukla 
- 
- Aditi Pandey
- 
- Srishti Dangi
- 
- Tanishka Singh
