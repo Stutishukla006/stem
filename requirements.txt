@@ -1,0 +1,11 @@
+streamlit
+requests
+python-dotenv
+openai
+PyMuPDF
+pyttsx3
+streamlit-lottie
+pytesseract
+speechrecognition
+Pillow
+numpy
